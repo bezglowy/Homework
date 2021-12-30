@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domowe 1", "Domowe 1\Domowe 1.csproj", "{E664F53C-7F56-4B94-8288-7D5D152F6F3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework1", "Domowe 1\Homework1.csproj", "{E664F53C-7F56-4B94-8288-7D5D152F6F3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2", "Homework2\Homework2.csproj", "{A295A287-8AE1-47C1-990A-738B4C0FAE26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2Calculator", "Kalkulator\Homework2Calculator.csproj", "{79C070CE-AFDD-4932-94AE-4DA5B781EAF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{E664F53C-7F56-4B94-8288-7D5D152F6F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E664F53C-7F56-4B94-8288-7D5D152F6F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E664F53C-7F56-4B94-8288-7D5D152F6F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A295A287-8AE1-47C1-990A-738B4C0FAE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A295A287-8AE1-47C1-990A-738B4C0FAE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A295A287-8AE1-47C1-990A-738B4C0FAE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A295A287-8AE1-47C1-990A-738B4C0FAE26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C070CE-AFDD-4932-94AE-4DA5B781EAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C070CE-AFDD-4932-94AE-4DA5B781EAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C070CE-AFDD-4932-94AE-4DA5B781EAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C070CE-AFDD-4932-94AE-4DA5B781EAF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
