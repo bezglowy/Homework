@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Ex. 6": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
